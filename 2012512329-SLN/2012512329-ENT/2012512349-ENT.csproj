@@ -57,6 +57,8 @@
     <Compile Include="Entities\TipoComprobante.cs" />
     <Compile Include="Entities\TipoHospedaje.cs" />
     <Compile Include="Entities\TipoTransporte.cs" />
+    <Compile Include="Entities\Transporte.cs" />
+    <Compile Include="Entities\VentaPaquete.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
