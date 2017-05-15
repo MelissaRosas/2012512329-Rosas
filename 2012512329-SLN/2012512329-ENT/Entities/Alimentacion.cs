@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2012512329_ENT
+namespace _2012512329_ENT.Entities
 {
-    public class Class1
+    class Alimentacion
     {
     }
 }
